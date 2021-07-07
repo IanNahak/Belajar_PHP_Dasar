@@ -31,3 +31,4 @@ Apa yang harus dipersiapkan:
 1. code editor (Visual Studio Code & Sublime Text 3)
 2. web server (Xampp)
 3. web browser (Google Chrome)
+4. database server
